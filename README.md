@@ -44,12 +44,24 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
   
 * Methodology Approach:
 
+  - Calculated Probability: 
+    1. Calculate the proportion of users converted.
+    2. Group the dataset with treatment into with/without new_version.
+    3. Check if there is a duplicated and then drop it.
+    4. Compute the probabilities for each assigned group.
+  
+  - A/B Testing: 
+    1. Calculate required probabilities for A/B testing.
+    2. Visualize the results with histogram plot for easy understanding.
+    3. Compute the p-value and interpret the results into business words.
+    4. Apply A/B testing with statistics package to know the testing results. 
+  
   - Modeling Approach: 
-    1. 
-  
-  
-  - Modeling Approach: 
-  
+    1. Utilize **Logistic Regression** methodology for a **categorical** based dataset.
+    2. Summarize the Logistic Regression model.
+    3. Merge with countries data and then summarize the model again.
+    4. Test with more factors and interpret the results into business words.
+    
   
 * Conclusion:
 
