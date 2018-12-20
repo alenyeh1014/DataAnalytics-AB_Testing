@@ -16,8 +16,12 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
 * Machine Learning
 
 
-### Algorithm Used
+### Model Used
 
+- Statistical Analysis:
+
+  - A/B Testing
+  
 - Machine Learning:
 
   - Logistic Regression (LR)
