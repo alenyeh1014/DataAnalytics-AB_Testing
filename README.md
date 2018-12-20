@@ -44,6 +44,15 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
   
 * Methodology Approach:
 
-  - Data Cleansing:
+  - Modeling Approach: 
+    1. 
+  
+  
+  - Modeling Approach: 
+  
+  
+* Conclusion:
+
+  - 
   
 
