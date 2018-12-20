@@ -34,12 +34,12 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
 
 * Motivation:
 
-  - 
+  - A/B tests are very commonly performed by data analysts and data scientists in the industry. It is also important to get some practice working with the difficulties of these. For this project, I analyze and understand the results of an A/B test run by an e-commerce website. My goal is to help the company understand if they should implement **the new page, keep the old page, or perhaps run the experiment longer to make their decision**.
 
 
 * Data and Scope:
 
-  - The dataset is 
+  - The size of dataset is around 300,000 variables with 5 independent factors used for A/B testing at first. Then, add one more factor for utilizing with **Logistic Regression** methodology. Since the dataset is clean and well-organized, there is no need to do data cleansing. Instead, calculated probability is the most crucial component to get persuasive and robust results in this project. 
   
   
 * Methodology Approach:
