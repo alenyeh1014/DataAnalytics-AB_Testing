@@ -69,6 +69,6 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
   
 * Conclusion:
 
-  - 
+  1. From the results of **calculated probability** part, it is o
   
 
