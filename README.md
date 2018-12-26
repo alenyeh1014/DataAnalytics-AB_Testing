@@ -43,7 +43,7 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
 
 * Data and Scope:
 
-  - The size of dataset is around 300,000 variables with 5 independent factors used in A/B testing in the beginning. Then, add more factors to utilize with **Logistic Regression** methodology. Since the dataset is clean and well-organized, there is no need to implement extra data cleansing. Instead, calculated probability is the first and the most crucial section to get a persuasive and robust model in this project. 
+  - The size of dataset is around 300,000 variables with 5 independent factors used in A/B testing in the beginning. Then, I add more factors to utilize with **Logistic Regression** methodology to get a deeper understanding of this data. Since this dataset is clean and well-organized, there is no need to implement extra data cleansing. Instead, **calculated probability is the first and the most crucial section** to get a persuasive and robust model in this project. 
   
   
 * Methodology Approach:
