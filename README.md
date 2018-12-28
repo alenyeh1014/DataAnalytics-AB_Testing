@@ -27,7 +27,7 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
   - Logistic Regression
   
   
-### Technologies and Packaged Used
+### Technologies and Packages Used
 
 * Python, Jupyter Notebook
 * Numpy, Matplotlib.pyplot
