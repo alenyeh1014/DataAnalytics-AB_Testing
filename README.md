@@ -4,7 +4,7 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
 
 ### Project Objective
 
-* The purpose of this project is to know how to apply A/B testing and Machine Learning methodology in order to understand which version is more popular for users and also uncover the relations between each variable. 
+* The purpose of this project is to learn how to apply A/B testing and Machine Learning methodology in order to understand which version is more popular for users and also uncover the relations between each variable. 
 
 
 ### Methods Used
