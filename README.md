@@ -67,7 +67,7 @@ Hi all, this is a Data Analytics Project ! - Project with A/B testing and Machin
     4. Test with more factors and interpret the results into business words.
     
   
-* Conclusion:
+### Conclusion:
 
   - From the results of **Calculated Probability**, there are more than 50% of users willing to land new_pages which makes the model more convincing and meaningful. Although only around 11.96% of users are willing to convert to the new_pages version, the result is still acceptable in the business world. Furthermore, the probability of an individual received the new page in either "control" or "treatment" groups are around 12% which means not only the size of both groups are similar but the conversion rates are close. Therefore, I can distinguish the design of this experimental model is strong and persuasive.
   
